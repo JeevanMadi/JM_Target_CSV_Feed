@@ -4,9 +4,9 @@
 ## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,
 ## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,
 ## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,
-## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10
-Excerise,Workout area,10001,Area for a prodictive worout,,150,https://raw.githubusercontent.com/JeevanMadi/JM_Target_CSV_Feed/main/workout%201.jpg,1,,WeWo,,,,,,,,,
-Me apparal,Hoodie,10002,Blue color hoodie,,45,https://raw.githubusercontent.com/JeevanMadi/JM_Target_CSV_Feed/main/mens_gym_hoodies.webp,1,,WeWo,,,,,,,,,
-Girl apparal,Hoodie,10003,Blue color hoodie,,45,https://raw.githubusercontent.com/JeevanMadi/JM_Target_CSV_Feed/main/women%20-Hoodie.jpeg,0,,WeWo,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.brand,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10
+Excerise,Workout area,10001,Area for a productive worout,,150,https://raw.githubusercontent.com/JeevanMadi/JM_Target_CSV_Feed/main/workout%201.jpg,1,,WeWo,,,,,,,,,
+Men apparal,Hoodie,10002,Blue color hoodie,,45,https://raw.githubusercontent.com/JeevanMadi/JM_Target_CSV_Feed/main/mens_gym_hoodies.webp,1,,WeWo,,,,,,,,,
+Women apparal,Hoodie,10003,Blue color hoodie,,45,https://raw.githubusercontent.com/JeevanMadi/JM_Target_CSV_Feed/main/women%20-Hoodie.jpeg,0,,WeWo,,,,,,,,,
 Workout Gear,Water bottle,10004,Transparant bottle,,25,https://raw.githubusercontent.com/JeevanMadi/JM_Target_CSV_Feed/main/Workout-water-bottle.jpg,1,,WeWo,,,,,,,,,
 Workout Mat,Yoga mat,10005,Smooth and long sleeve ,,75,https://raw.githubusercontent.com/JeevanMadi/JM_Target_CSV_Feed/main/Yoga-Mat.webp,0,,WeWo,,,,,,,,,
